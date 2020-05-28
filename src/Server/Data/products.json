@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Rochie",
+        "unitPrice": 50,
+        "description": "Rochie piele LOVE U TO DEATH",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/6580/Rochie-piele-Love-U-to-Death_1000x1000.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Rochie",
+        "unitPrice": 40,
+        "description": "Rochie asimetrica NO SLEEP",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/6589/Rochie-asimetrica-No-Sleep_1000x1000.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hanorac",
+        "unitPrice": 33,
+        "description": "Hanorac AMERICAN HORROR STORY",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/7550/Rochie-cu-gluga-NORMAL-PEOPLE_1000x1000.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tricou",
+        "unitPrice": 20,
+        "description": "Tricou cu dantela CAT'S TEARS",
+        "photoUrl": "https://www.gotica.ro/img/produse/1-15000/4941/TRICOU-CU-DANTELA-CAT-S-TEARS_1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tricou",
+        "unitPrice": 20,
+        "description": "Tricou ZODIA SAGETATOR",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/6651/TRICOU-Zodia-Sagetator_1000x1000.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jacheta",
+        "unitPrice": 100,
+        "description": "Jacheta de lana BIKER LADY",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/1018/Jacheta-de-lana-biker-lady_1000x1000.jpg"       
+    },
+    {
+        "id": 7,
+        "name": "Top",
+        "unitPrice": 20,
+        "description": "Top Goth NIGHTS",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/4736/Top-Goth-Nights_1_1000x1000.jpg"
+    },
+    {
+        "name": "Costum baie",
+        "unitPrice": 45,
+        "description": "Costum de baie 2 piese DARKNESS",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/6584/Costum-de-baie-2-piese-Darkness_1000x1000.jpg",
+        "id": 8
+    },
+    {
+        "name": "Colanti",
+        "unitPrice": 30,
+        "description": "Colanti SLASHER",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/5388/Colanti-Slasher_1000x1000.jpg",
+        "id": 9
+    },
+    {
+        "name": "Corset",
+        "unitPrice": 80,
+        "description": "Corset cabaret din satin negru",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/1763/CORSET-CABARET-DIN-SATIN-NEGRU_1000x1000.jpg",
+        "id": 10
+    },
+    {
+        "name": "Fusta",
+        "unitPrice": 60,
+        "description": "Fusta creion BLACK PENTAGRAM",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/4573/Fusta-creion-Black-Pentagram_1000x1000.jpg",     
+        "id": 11
+    },
+    {
+        "name": "Bluza",
+        "unitPrice": 35,
+        "description": "Bluza cu plasa GRUNCE",
+        "photoUrl": "https://www.gotica.ro/cache/img/produse/1-15000/3923/BLUZA-CU-PLASA-GRUNGE_2_1000x1000.jpg",
+        "id": 12
+    }
+]
+
